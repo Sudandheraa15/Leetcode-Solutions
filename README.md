@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
