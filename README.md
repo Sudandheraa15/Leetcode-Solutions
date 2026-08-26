@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0941-valid-mountain-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 ## Database
 |  |
@@ -27,4 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0184-department-highest-salary) |
 | [0595-big-countries](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0595-big-countries) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
