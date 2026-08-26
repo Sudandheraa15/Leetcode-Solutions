@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 ## Array
