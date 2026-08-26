@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 ## Database
 |  |
