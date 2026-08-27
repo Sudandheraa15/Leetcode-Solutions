@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -78,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
