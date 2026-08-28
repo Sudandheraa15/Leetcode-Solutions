@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
+| [1154-day-of-the-year](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
+| [1154-day-of-the-year](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 | [2396-strictly-palindromic-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
