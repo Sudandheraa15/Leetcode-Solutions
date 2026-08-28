@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [2396-strictly-palindromic-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
+| [2396-strictly-palindromic-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
