@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0941-valid-mountain-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 ## Hash Table
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -130,4 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
