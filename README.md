@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
