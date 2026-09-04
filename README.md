@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0553-optimal-division](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0553-optimal-division) |
@@ -178,10 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
