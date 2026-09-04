@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0179-largest-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0553-optimal-division](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0553-optimal-division) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0258-add-digits) |
