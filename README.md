@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 | [1154-day-of-the-year](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 ## Array
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0504-base-7](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
