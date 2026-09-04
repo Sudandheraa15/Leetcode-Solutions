@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 | [1154-day-of-the-year](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 ## Array
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0553-optimal-division](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0553-optimal-division) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
 | [1154-day-of-the-year](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
