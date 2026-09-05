@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0553-optimal-division](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0553-optimal-division) |
 | [0611-valid-triangle-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 ## Dynamic Programming
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Depth-First Search
 |  |
