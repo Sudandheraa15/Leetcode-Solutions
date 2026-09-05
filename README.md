@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0436-find-right-interval](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0553-optimal-division](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0553-optimal-division) |
 | [0611-valid-triangle-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0445-add-two-numbers-ii](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0456-132-pattern) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -263,4 +266,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0456-132-pattern](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
