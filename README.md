@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0475-heaters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0553-optimal-division](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0553-optimal-division) |
 | [0611-valid-triangle-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0475-heaters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0645-set-mismatch) |
