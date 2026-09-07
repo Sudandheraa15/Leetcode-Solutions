@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0179-largest-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
