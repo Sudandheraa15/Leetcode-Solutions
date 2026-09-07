@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0179-largest-number) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0445-add-two-numbers-ii](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0456-132-pattern) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0848-shifting-letters) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
