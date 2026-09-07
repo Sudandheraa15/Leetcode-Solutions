@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0179-largest-number) |
