@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0848-shifting-letters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0848-shifting-letters) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 | [1154-day-of-the-year](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 ## Array
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0848-shifting-letters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0848-shifting-letters) |
 | [0941-valid-mountain-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 ## Hash Table
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Prefix Sum
+|  |
+| ------- |
+| [0848-shifting-letters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0848-shifting-letters) |
 <!---LeetCode Topics End-->
