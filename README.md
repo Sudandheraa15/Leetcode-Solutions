@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1816-truncate-sentence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1816-truncate-sentence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
 |  |
