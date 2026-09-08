@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0474-ones-and-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0391-perfect-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0554-brick-wall](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0554-brick-wall) |
@@ -363,8 +365,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
