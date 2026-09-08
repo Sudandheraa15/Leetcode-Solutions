@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0848-shifting-letters) |
 | [0941-valid-mountain-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## Greedy
