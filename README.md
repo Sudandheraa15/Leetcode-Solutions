@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0263-ugly-number) |
@@ -261,11 +263,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
 ## Brainteaser
 |  |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 ## Tree
 |  |
@@ -406,4 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
