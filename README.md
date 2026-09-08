@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0169-majority-element](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0221-maximal-square) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0436-find-right-interval) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0372-super-pow](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0372-super-pow) |
 ## Euler's Totient Function
 |  |
@@ -343,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
