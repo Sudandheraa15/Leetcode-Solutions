@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
