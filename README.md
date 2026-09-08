@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0848-shifting-letters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0848-shifting-letters) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0941-valid-mountain-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0866-prime-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1154-day-of-the-year](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 ## Sweep Line
 |  |
 | ------- |
