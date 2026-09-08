@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2396-strictly-palindromic-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Binary Search
 |  |
 | ------- |
@@ -267,11 +268,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Brainteaser
 |  |
 | ------- |
@@ -416,8 +419,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
