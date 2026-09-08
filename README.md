@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0848-shifting-letters) |
 | [0941-valid-mountain-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0966-vowel-spellchecker](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0966-vowel-spellchecker) |
+| [1480-running-sum-of-1d-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1816-truncate-sentence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0848-shifting-letters) |
+| [1480-running-sum-of-1d-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 ## Bracket Sequences
 |  |
