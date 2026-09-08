@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0812-largest-triangle-area](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0848-shifting-letters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0848-shifting-letters) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0941-valid-mountain-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0866-prime-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
+| [0812-largest-triangle-area](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 ## Sweep Line
 |  |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
