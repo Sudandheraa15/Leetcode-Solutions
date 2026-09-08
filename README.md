@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0436-find-right-interval](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0475-heaters) |
@@ -378,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
