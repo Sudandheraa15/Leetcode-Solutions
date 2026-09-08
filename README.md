@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
