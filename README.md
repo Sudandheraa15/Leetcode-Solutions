@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1816-truncate-sentence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Database
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1154-day-of-the-year](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2396-strictly-palindromic-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1512-number-of-good-pairs](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
