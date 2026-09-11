@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1816-truncate-sentence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3838-weighted-word-mapping](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
@@ -106,7 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1816-truncate-sentence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
-| [1920-build-array-from-permutation](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3838-weighted-word-mapping](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -250,7 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
-| [1920-build-array-from-permutation](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3838-weighted-word-mapping](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
