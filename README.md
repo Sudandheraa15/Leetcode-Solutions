@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
