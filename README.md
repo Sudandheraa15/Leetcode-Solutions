@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0179-largest-number) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0190-reverse-bits) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
