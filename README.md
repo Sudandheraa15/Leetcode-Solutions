@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1816-truncate-sentence](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [3340-check-balanced-string](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/3340-check-balanced-string) |
 | [3838-weighted-word-mapping](https://github.com/Sudandheraa15/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
